@@ -28,7 +28,9 @@ setup(
             "add_two_ints_server = my_py_pkg.add_two_ints_server:main",
             "add_two_ints_client = my_py_pkg.add_two_ints_client:main",
             "add_two_ints_clients_no_oop = my_py_pkg.add_two_ints_clients_no_oop:main",
-            "hw_status_publisher = my_py_pkg.hw_status_publisher:main"
+            "hw_status_publisher = my_py_pkg.hw_status_publisher:main",
+            "led_panel = my_py_pkg.led_panel:main",
+            "battery = my_py_pkg.battery:main"
         ],
     },
 )
